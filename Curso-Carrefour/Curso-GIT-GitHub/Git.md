@@ -44,7 +44,8 @@ Faça `ssh-keygen -t ed25519 -C email`. E automatizamos o processo fazendo `eval
 ## Configurações inicias git
 
 ### email 
-Com o comando `git --config --global user.email "email"` definimos o e-mail padrão
+Com o comando `git --config --global user.email "email"` definimos o e-mail padrão. Adicionando a flag `--unset` removemos esse padrão.
+
 
 ### username
 Com o comando `git --config --global user.name "username"` definimos o e-username padrão
