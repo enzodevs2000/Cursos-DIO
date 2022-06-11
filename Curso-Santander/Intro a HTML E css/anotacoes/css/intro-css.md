@@ -32,3 +32,5 @@ Enquanto que classes é da seguinte forma:
         margin: 10px;
     }
 ~~~
+
+Para podermos usar o css no nosso arquivo html devemos importá-lo. Para isso, devemo utilizar a tag `<link rel="stylesheet" href="caminho-arquivo">` na `<head>` do html.
