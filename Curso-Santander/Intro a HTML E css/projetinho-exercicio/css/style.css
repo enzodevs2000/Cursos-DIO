@@ -1,0 +1,16 @@
+#title, .subtitle, .post-title {
+    color: #B3B3B3;
+}
+
+#title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.subtitle {
+    border: 2px solid red;
+}
+
+.post-title {
+    font-style: italic;
+    font-size: 20px;
+}
